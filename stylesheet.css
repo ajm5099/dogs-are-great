@@ -1,5 +1,23 @@
 body {
-    background: linear-gradient(blue, yellow);
+    background: linear-gradient(rgb(186, 186, 231), rgb(231, 231, 177));
     font-size: 14px;
-    color: darkslategrey;
+}
+
+h1 {
+    color: white;
+}
+
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+
+p {
+    size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: white;
+
 }
